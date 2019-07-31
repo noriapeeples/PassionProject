@@ -1,0 +1,30 @@
+body{
+    background-color: red;
+    border:4px dotted white;
+}
+#causes{
+    color:white;
+    border:4px dotted white;
+    padding:25px;
+    margin:25px;
+}
+#signs{
+color:white;
+border: 4px dotted white;
+}
+#treatments{
+    color:white;
+    border: 4px dotted white;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+h2{
+    color:white;
+    text-align: center;
+}
+p{
+    color:white;
+
+}

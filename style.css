@@ -1,3 +1,30 @@
 h1{
     text-align: center;
+    color: white;
+    position:relative;
+    top:75px;
+}
+body{
+   background-color: grey;
+   border:4px dotted white;
+}
+h2{
+    color:rgb(8, 20, 182);
+    text-align: center;
+}
+p{
+    color:white;
+    border: dotted 4px rgb(8, 20, 182);
+    }
+li{
+    color:white;
+}
+#brain{z-index: -3;
+position:relative;
+top:-100px;
+left:20px;
+}
+img{
+position:relative;
+Left:175px;
 }
