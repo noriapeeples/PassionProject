@@ -11,20 +11,51 @@ body{
 h2{
     color:rgb(8, 20, 182);
     text-align: center;
+    font-family: 'Rasa', serif;
 }
 p{
     color:white;
     border: dotted 4px rgb(8, 20, 182);
+font-family: 'Chivo', sans-serif;
+padding: 25px;
+margin:25px
     }
 li{
     color:white;
+font-family: 'Chivo', sans-serif;
+
 }
 #brain{z-index: -3;
 position:relative;
-top:-100px;
-left:20px;
+top:-75px;
+left:75px;
 }
 img{
 position:relative;
 Left:175px;
+}
+.helpfulLinks{
+    text-align: center;
+
+}
+#places{
+    text-align: center;
+}
+ul{
+    color:blue;
+}
+h4{
+    color: rgb(8, 20, 182);
+    font-family: 'Rasa', serif;
+}
+#cloud{
+    position:relative;
+    left:220px;
+}
+#red{
+ position:relative;
+    left: 195px;
+}
+.navbar{
+    nav-left: 200px;
 }
