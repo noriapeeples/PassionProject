@@ -28,11 +28,11 @@ font-family: 'Chivo', sans-serif;
 #brain{z-index: -3;
 position:relative;
 top:-75px;
-left:75px;
+left:50px;
 }
 img{
 position:relative;
-Left:175px;
+Left:185px;
 }
 .helpfulLinks{
     text-align: center;
@@ -54,7 +54,7 @@ h4{
 }
 #red{
  position:relative;
-    left: 195px;
+    left: 165px;
 }
 .navbar{
     nav-left: 200px;
